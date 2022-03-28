@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Laila Awalia Saummi.
-- 👀 I’m interested in Data Analyst and Data Science.
+- 👋 Hi, I’m Laila Awalia Saummi. A Fresh Graduate from Physics Major (Materials Physics Expertise) with Internship Experience as R&D and NDT Engineer in Research Industry.
+- 👀 I’m interested in Data Analyst, Data Science, and Materials Physics R&D.
 - 🌱 I’m currently learning Python, SQL and Tableau.
-- 💞️ I’m looking to collaborate on Data Analyst Projects or Volunteers.
+- 💞️ I’m looking to collaborate on Data Analyst or Materials Physics Projects.
 - 📫 You can reach me via Email or LinkedIn.
 
 <!---
