@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Laila Awalia Saummi. A Fresh Graduate from Physics Major (Materials Physics Expertise) with Internship Experience as R&D and NDT Engineer in Research Industry.
-- 👀 I’m interested in Data Analysis, Data Science, and Materials Physics R&D.
-- 🌱 I’m currently learning Python, R, and SQL.
-- 💞️ I’m looking to collaborate on Data Analysis, Data Science or Materials Physics R&D Projects.
+- 👋 Hi, I’m Laila Awalia Saummi, you can call me Laila or Saummi. I am a Bachelor Degree from Physics Major with Project Based Internship Experience as Project Consultant, Business Intelligence Analyst, Product and Business Development, and Data Scientist.
+- 👀 I’m interested in Project Management, Business Intelligence Analysis, Product and Business Development, and Data Science.
+- 🌱 I’m currently learning Microsoft Office, Google Workspace, Python, R, and SQLite.
+- 💞️ I’m looking to collaborate on Project Management, Business Analysis, Business Development or Data Science Projects.
 - 📫 You can reach me via Email or LinkedIn.
 
 <!---
