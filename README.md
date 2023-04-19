@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laila Awalia Saummi, you can call me Laila or Saummi. I am a Bachelor Degree from Physics Major with Project Based Internship Experience as Data Scientist.
 - 👀 I’m interested in Project Management, Data Science, Business Analyst and Data Analyst.
-- 🌱 I’m currently learning Microsoft Office, Google Workspace, Python, and SQL.
+- 🌱 I’m currently learning Microsoft Office, Google Workspace, Python, and MySQL.
 - 💞️ I’m looking to collaborate on Project Management, Business Analysis, Data Science, or Data Analyst Projects.
 - 📫 You can reach me via Email or LinkedIn.
