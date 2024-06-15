@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laila Awalia Saummi, you can call me Laila or Saummi. I am a Bachelor of Science in Physics.
-- 👀 I’m interested in Science and Technology Research and Development.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on Project Management, Data, or Material Physics Research and Development Projects.
+- 👀 I’m interested in STEM Research and Development.
+- 🌱 I’m currently learning Generative AI and Python.
+- 💞️ I’m looking to collaborate on AI and STEM Projects.
 - 📫 You can reach me via Email or LinkedIn.
